@@ -1,5 +1,5 @@
 # Windows 11 7-Zip Icon Theme
-A 7-Zip icon theme featuring only the default Windows 11 .zip icon
+A 7-Zip icon theme featuring only the default Windows 11 .zip icon, but for all filetypes.
 
 **Read the article about this theme: [dexiota.site/07/03/2021/Windows-11-7-Zip-Icon-Theme](https://dexiota.site/07/03/2021/Windows-11-7-Zip-Icon-Theme)**
 
